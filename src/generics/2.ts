@@ -25,5 +25,5 @@ function compare(
 const result = compare(
     { name: 'Max', color: 'red' },      
     { position: 1, weight: 100 }        
-  );
+);
   

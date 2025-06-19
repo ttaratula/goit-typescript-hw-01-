@@ -4,6 +4,7 @@
 
 // Використовуючи утиліту Partial та generics, виправте тип параметра функції так, щоб уникнути помилок типізації.
 
+
 type MyUser = {
     name: string;
     surname: string;

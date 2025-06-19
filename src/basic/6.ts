@@ -28,5 +28,5 @@ const poly: User = {
     name: 'Mango',
     age: 30,
     email: 'john@example.com'
-  };
+};
   
